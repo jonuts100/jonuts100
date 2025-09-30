@@ -1,15 +1,13 @@
 # 💫 About me :D
-I’m currently building Carpe, a mobile collection game designed for photographers and travelers to capture, share, and showcase their journeys in a fun and interactive way.
+I’m currently building Carpe, a mobile collection game designed for photographers and travelers to capture, share, and showcase their journeys in a fun and interactive way. (It's not an Instagram clone i swear 👀)
 
-I’m deeply passionate about AI, UI/UX, Data Science, and Data Engineering, with a focus on creating products that people around the world can enjoy and benefit from.
+I’m deeply passionate about AI, UI/UX, Data Science, and Data Engineering. I love afternoon rest and late nights.
 
 🎓 I’m a 5th-semester student at BINUS University, where I continue to sharpen my technical and creative skills.
 
 🚀 Alongside Carpe, I’m also collaborating on:
-
-A storybook image-captioning AI model for a mobile application that bridges creativity and technology.
-
-A natural language to SQL multi-agent system leveraging smolagents and MCP, aimed at making data more accessible through conversational interfaces.
+-  A storybook image-captioning AI model for a mobile application that bridges creativity and technology.
+-  A natural language to SQL multi-agent system leveraging smolagents and MCP, aimed at making data more accessible through conversational interfaces.
 
 Always open to collaboration, new challenges, and opportunities to create technology that inspires.
 
