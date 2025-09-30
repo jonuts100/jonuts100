@@ -1,6 +1,17 @@
-# 💫 About Me:
-I'm currently working on Carpe, a collection game mobile app for photographers and travelers. Passionate in AI , UI/UX, Data Science and Data Engineering to invent products for the world to enjoy. Currently studying at BINUS UNIVERSITY as a 5th semester student. Also collaborating on a storybook image captioning AI model for a mobile app and Natural language to SQL multiagent system  using smolagents and mcp. 
+# 💫 About me :D
+I’m currently building Carpe, a mobile collection game designed for photographers and travelers to capture, share, and showcase their journeys in a fun and interactive way.
 
+I’m deeply passionate about AI, UI/UX, Data Science, and Data Engineering, with a focus on creating products that people around the world can enjoy and benefit from.
+
+🎓 I’m a 5th-semester student at BINUS University, where I continue to sharpen my technical and creative skills.
+
+🚀 Alongside Carpe, I’m also collaborating on:
+
+A storybook image-captioning AI model for a mobile application that bridges creativity and technology.
+
+A natural language to SQL multi-agent system leveraging smolagents and MCP, aimed at making data more accessible through conversational interfaces.
+
+Always open to collaboration, new challenges, and opportunities to create technology that inspires.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thejonut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-the-86384b253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonathanthesuyanto@gmail.com) 
